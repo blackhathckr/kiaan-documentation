@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkiaan_agrow_tech_software_applications_documentation=self.webpackChunkkiaan_agrow_tech_software_applications_documentation||[]).push([[146],{9328:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
